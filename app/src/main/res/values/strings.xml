@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Digite seu e-mail</string>
+    <string name="prompt_password">Digite sua senha </string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="botao_logar">Logar</string>
+    <string name="text_cadastro">Não tem conta? Cadastre se.</string>
+    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+</resources>

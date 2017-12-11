@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miyuki\AndroidStudioProjects\Database\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Miyuki\AndroidStudioProjects\Database\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7cde986b185f371b9aad6b4430e737a47db2c84f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miyuki\AndroidStudioProjects\Database\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2ee2024a359f424044a95f72e737677a1ccd417a">
+        <dex dex="C:\Users\Miyuki\AndroidStudioProjects\Database\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_581a321d7f406ca77f6c0c101d5000aa977ba722\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miyuki\.android\build-cache\00639c5f88159cd566e207b6b4f4425bcc8cb797\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Miyuki\AndroidStudioProjects\Database\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_913f82bbccffacb01d538d82ab91a845aa0f797c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miyuki\.android\build-cache\31865fd1b5f9f358d241452adcf55a4da804443c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Miyuki\AndroidStudioProjects\Database\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7a0808c2ee9f235e6da4b84ad06c0f95958ed38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miyuki\.android\build-cache\4ff4d6ad53c0565d81d3e3b90b72e629b8f29f41\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Miyuki\AndroidStudioProjects\Database\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a601a203350c734f76ce15e075c5ea89bf04da8a\classes.dex" />
+    </item>
+
+</items>

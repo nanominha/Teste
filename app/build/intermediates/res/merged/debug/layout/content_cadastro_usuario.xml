@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B9F6CA"
+    android:gravity="center_vertical|center_horizontal"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="br.com.databaseandroid.android.database.activity.CadastroUsuarioActivity"
+    tools:showIn="@layout/activity_cadastro_usuario">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/usuario" />
+
+    <EditText
+        android:id="@+id/edit_cadastro_nome"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="19dp"
+        android:ems="10"
+        android:hint="Digite seu nome"
+        android:inputType="textPersonName"
+        android:layout_below="@+id/imageView2"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/edit_cadastro_email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/edit_cadastro_nome"
+        android:ems="10"
+        android:hint="Digite seu email "
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/edit_cadastro_senha"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/edit_cadastro_email"
+        android:ems="10"
+        android:hint="Digite a senha"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/bt_cadastrar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_cadastro_senha"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:text="@string/botao_cadastrar" />
+
+</RelativeLayout>
